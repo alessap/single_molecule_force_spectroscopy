@@ -18,6 +18,7 @@ Pirrotta, A., Solomon, G. C., & Franco, I. (2016). *The Journal of Physical Chem
 https://doi.org/10.1021/acs.jpcc.6b06823
 
 You can find the original articles about single-molecule pulling below:
+
 **Single-molecule pulling: phenomenology and interpretation** 
 I. Franco, M. A. Ratner and G. C. Schatz, In *Nano and Cell Mechanics: Fundamentals and Frontiers*, 
 edited by H.D. Espinosa and G. Bao (Wiley, Microsystem and Nanotechnology Series, 2013), Chap. 14, pages 359–388 
