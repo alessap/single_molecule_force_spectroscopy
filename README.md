@@ -3,7 +3,7 @@ Python script to simulate a single-molecule force spectroscopy using classical m
 
 
 
-This script has been used in these articles:
+This script has been used in these works:
 
 **Excitonic Coupling Modulated by Mechanical Stimuli**
 Pirrotta, A., Solomon, G. C., Franco, I., & Troisi, A. (2017). *The Journal of Physical Chemistry Letters*, 4326–4332. 
